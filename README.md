@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=66CDAA&height=120&section=header"/>
 
-  ## BEM VINDO A 5ª LISTA DE INTRODUÇÃO A PROGRAMAÇÃO -- FUNÇÕES RECURSISVAS!
+  <h1>BEM VINDO A 5ª LISTA DE INTRODUÇÃO A PROGRAMAÇÃO -- FUNÇÕES RECURSISVAS.</h1>
   <div align="center">
 
 <div align="center">
@@ -23,7 +23,8 @@
 
 Nesta primeira lista de exercícios de Introdução à Programação, foram aplicados exclusivamente conceitos de lógica operacional e estruturas condicionais utilizando a linguagem Python em 4 questões (2 facéis, e 2 médias). O foco esteve na construção de soluções baseadas em decisões simples, utilizando operadores lógicos, relacionais e comandos como if, else e elif para controlar o fluxo dos programas, Laços de repetição (while e For), Listas, Funções e Funções Recursivas. Essa abordagem permitiu desenvolver o raciocínio lógico necessário para resolver problemas básicos e difíceis, reforçando a compreensão dos fundamentos essenciais da programação.
 
-![image](https://github.com/user-attachments/assets/8097b99f-ca3c-4688-a2d7-6aef3c0df54e)
+![image](https://github.com/user-attachments/assets/df14b575-1cec-4b99-95be-22ee6e2c94be)
+
 
 🤠 **Integrante:**
 <table>
